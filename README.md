@@ -1,3 +1,4 @@
+<img width="1080" height="1456" alt="1000060492" src="https://github.com/user-attachments/assets/15656c8f-f53a-403e-9fea-ba57d5353d33" />
 # Genome Exploration II — *Prionace glauca*
 
 ## Project Overview
@@ -37,3 +38,17 @@ The 10-kb filtering step removed **zero sequences**, because the shortest sequen
 The genome has a **GC content of 44.65%**, representing the proportion of guanine and cytosine bases in the assembly.
 
 The ORF analysis identified **212 possible ORFs** in the selected region. However, these ORFs should not automatically be considered real genes because an ORF can occur by chance and additional evidence is needed to confirm whether a predicted ORF represents a functional gene.
+
+## Dataset in Galaxy History 
+
+<img width="1080" height="1456" alt="1000060492" src="https://github.com/user-attachments/assets/58e9aecc-b5b9-4011-a7fe-33859cf25440" />
+Figure 1. Galaxy History showing the Prionace glauca genome assembly (GCA_057534265.1) containing 2,253 sequences.
+
+## Statistic Output
+
+<img width="1080" height="1061" alt="1000060493" src="https://github.com/user-attachments/assets/4c1aed27-2642-4c13-9024-36afa2fdf24c" />
+Figure 2. FASTA statistics output for the Prionace glauca genome assembly, showing key assembly metrics including N50, L50, sequence length, and GC content.
+
+## Galaxy History or workflow link
+
+https://usegalaxy.org/u/gelav/w/genome-exploration-ii-work-flow-prionace-glauca
