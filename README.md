@@ -1,4 +1,3 @@
-<img width="1080" height="1456" alt="1000060492" src="https://github.com/user-attachments/assets/15656c8f-f53a-403e-9fea-ba57d5353d33" />
 # Genome Exploration II — *Prionace glauca*
 
 ## Project Overview
