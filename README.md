@@ -41,12 +41,12 @@ The ORF analysis identified **212 possible ORFs** in the selected region. Howeve
 ## Dataset in Galaxy History 
 
 <img width="1080" height="1456" alt="1000060492" src="https://github.com/user-attachments/assets/58e9aecc-b5b9-4011-a7fe-33859cf25440" />
-Figure 1. Galaxy History showing the Prionace glauca genome assembly (GCA_057534265.1) containing 2,253 sequences.
+Figure 1. Galaxy History showing the *Prionace glauca* genome assembly (GCA_057534265.1) containing 2,253 sequences.
 
 ## Statistic Output
 
 <img width="1080" height="1061" alt="1000060493" src="https://github.com/user-attachments/assets/4c1aed27-2642-4c13-9024-36afa2fdf24c" />
-Figure 2. FASTA statistics output for the Prionace glauca genome assembly, showing key assembly metrics including N50, L50, sequence length, and GC content.
+Figure 2. FASTA statistics output for the *Prionace glauca* genome assembly, showing key assembly metrics including N50, L50, sequence length, and GC content.
 
 ## Galaxy History or workflow link
 
